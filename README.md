@@ -2,7 +2,7 @@
 
 The flying fish will use its special fins to escape danger by flying (ok gliding) out of the water.
 
-### Flying Fish is a semi-opinionated framework for using Dart and Flutter exclusively to build applications.
+### Flying Fish is a semi-opinionated framework for building applications exclusively using Dart and Flutter. Flying Fish is full-stack Dart framework.
 
 Q - _How are you only semi-opinionated?_
 
