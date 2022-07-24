@@ -8,4 +8,4 @@ Q - _How are you only semi-opinionated?_
 
 A - We don't know what our opinions are yet, but we want to be able to fit the needs of the community.
 
-### Check out [Barbados](https://github.com/flutter-fish/barbados) to see what a Flutter Fish project looks like at the time you're reading this. We're developing in real-time!
+### Check out [Barbados](https://github.com/flutter-fish/barbados) the Flying Fish sample app to see what a Flying Fish project looks like at the time you're reading this. We're developing in real-time!
