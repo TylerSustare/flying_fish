@@ -1,6 +1,6 @@
 # Flying Fish 🐟
 
-The flying fish will use its special fins to escape danger by flying (ok gliding) out of the water.
+The flying fish will use its special fins to escape danger by fluttering/flying (ok gliding) out of the water.
 https://pub.dev/packages/flying_fish
 
 ## Flying Fish is full-stack Dart framework - a semi-opinionated framework for building applications exclusively using Dart and Flutter.
