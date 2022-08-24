@@ -2,6 +2,7 @@ import 'dart:io';
 
 import 'package:flying_fish/flying_fish.dart';
 
+/// The class responsible for the flying fish project readme file `README.md`.
 class Readme {
   String projectPath;
   FlyingFish project;

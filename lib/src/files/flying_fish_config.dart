@@ -2,6 +2,7 @@ import 'dart:io';
 
 import 'package:flying_fish/flying_fish.dart';
 
+/// The class responsible for the flying fish config file `flying_fish.yaml`.
 class FlyingFishConfig {
   String projectPath;
   FlyingFish project;
