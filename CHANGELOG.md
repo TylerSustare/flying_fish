@@ -1,3 +1,7 @@
+## 0.0.4
+
+- Update description for pub points.
+
 ## 0.0.3
 
 - Updates for pub points.
