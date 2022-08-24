@@ -1,6 +1,5 @@
-/// Support for doing something awesome.
+/// The flying fish library to manage flying fish projects.
 ///
-/// More dartdocs go here.
 library flying_fish;
 
 export 'src/flying_fish_base.dart';
