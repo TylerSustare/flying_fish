@@ -1,4 +1,4 @@
-# Activate Very Good CLI
+# Activate Flying Fish CLI
 
 dart pub global activate flying_fish
 

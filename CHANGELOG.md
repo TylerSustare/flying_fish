@@ -1,3 +1,7 @@
+## 0.0.5
+
+- Add executable for global pub
+
 ## 0.0.4
 
 - Update description for pub points.
